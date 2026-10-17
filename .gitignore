@@ -1,0 +1,19 @@
+# Operating systems
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local scratch
+*.log
+node_modules/
+
+# Nothing is built here — the repo is the deployable artefact.
+# If a build step is ever added, ignore its output and keep deploying
+# from the built files, not from source.
